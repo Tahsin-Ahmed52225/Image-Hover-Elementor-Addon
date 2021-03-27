@@ -1,0 +1,20 @@
+
+.eihe-notice {
+    padding-bottom: 10px;
+    min-height: 86px;
+}
+
+.eihe-notice .eihe-done {
+    position: absolute;
+    top: 9px;
+    right: 35px;
+    cursor: pointer;
+    background-color: white;
+}
+
+.eihe-notice .eihe-iconimg {
+    float: left;
+    margin: 10px 10px 10px 0;
+    max-width: 68px;
+    border-radius: 5px;
+}
